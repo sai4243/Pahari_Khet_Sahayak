@@ -1,0 +1,16 @@
+{
+    "crop_name": "Millet",
+    "crop_confidence": 0.8718686103820801,
+    "disease_detections": [
+        {
+            "disease_name": "blast",
+            "confidence_score": 0.6719292402267456,
+            "bounding_box_coordinates": {
+                "x1": 55,
+                "y1": 172,
+                "x2": 91,
+                "y2": 189
+            }
+        }
+    ]
+}

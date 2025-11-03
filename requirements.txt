@@ -1,0 +1,64 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+python-dotenv
+ultralytics
+opencv-python==4.9.0.80
+tensorflow
+numpy==1.26.4
+protobuf==3.20.3
+sentence-transformers
+faiss-cpu
+google-generativeai
+requests
+google-api-python-client
+streamlit
+unstructured
+# requirements.txt
+
+# --- Core Web Framework ---
+streamlit
+
+# --- ML & CV (Disease Prediction) ---
+ultralytics
+opencv-python
+Pillow
+
+# --- NLP & LangChain (Disease Prediction & Agri-Assistant) ---
+#langchain
+#langchain-community
+#langchain-huggingface
+sentence-transformers
+faiss-cpu
+
+# --- Google APIs (Disease Prediction & Agri-Assistant) ---
+#google-generativeai
+#google-api-python-client
+
+# --- ML & Data (Crop Recommendation) ---
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+seaborn
+
+# --- Utilities (For all projects) ---
+requests
+python-dotenv
+
+# --- !! VERSION CONFLICT FIXES !! ---
+# Force-downgrade protobuf to version 3.x, which is compatible
+# with both google-generativeai and sentence-transformers.
+protobuf==3.20.3
+
+# Force-install tf-keras for Keras 3 compatibility,
+# which is another common transformers dependency error.
+tf-keras
+# --- Voice Features (Speech-to-Text & Text-to-Speech) - ALL FREE, NO API KEYS NEEDED ---
+SpeechRecognition
+gtts
+audio-recorder-streamlit
+pydub
+googletrans==4.0.0rc1

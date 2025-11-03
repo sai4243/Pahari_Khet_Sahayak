@@ -1,0 +1,36 @@
+2. Septoria Leaf Blotch
+SYMPTOMS:
+
+Leaf Lesions: Symptoms first appear on lower leaves as light green or yellowish, lens-shaped to irregular spots between the leaf veins.
+
+Progression: The lesions enlarge and turn tan or brownish, often with a distinct yellow border.
+
+Key Diagnostic Feature: The appearance of tiny, black, pepper-like dots (pycnidia, the fungal fruiting bodies) within the center of mature lesions is a definitive sign of Septoria.
+
+Leaf Damage: As the disease moves up the plant, severe infections can cause leaves to wither and die prematurely, significantly impacting the grain-filling process.
+
+Glume Blotch: A related species can cause similar blotches on the earheads (glumes), which also show the characteristic black pycnidia.
+
+TREATMENT:
+
+Chemical Control:
+
+Foliar fungicides containing active ingredients like Propiconazole, Tebuconazole, or Mancozeb are effective.
+
+Spraying is most critical to protect the flag leaf and the leaf just below it, as they contribute most to grain yield. Application is recommended when symptoms are first observed, especially if wet and windy weather is forecast.
+
+Biological & Organic Control:
+
+Preventative sprays with copper-based organic fungicides can offer some protection but are less effective than chemical options once the disease is established.
+
+Currently, there are limited proven biological control agents for commercial-scale Septoria management.
+
+PREVENTION:
+
+Crop Rotation: The fungus survives on infected wheat stubble. Rotating wheat with non-cereal crops (like legumes or oilseeds) for at least one year helps break the disease cycle.
+
+Stubble Management: Plowing infected wheat residue deep into the soil after harvest reduces the primary source of inoculum for the next crop.
+
+Resistant Varieties: Planting wheat varieties with good genetic resistance to Septoria is a cornerstone of prevention.
+
+Delayed Sowing: In some regions, slightly delaying the sowing date can help the crop avoid periods of heavy rainfall when infection is most likely to occur.
